@@ -1,0 +1,204 @@
+---
+title: "Diversity, integration, and variability of intergenerational relationships in old age: new insights from personal network research"
+description: |
+  Reproducible project
+author:
+  - name: Raffaele Vacca
+    url: http://www.raffaelevacca.com/
+    affiliation: Department of Social and Political Sciences, University of Milan
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+    number_sections: false
+    toc_float: true
+---
+
+**Reproducible project for:** 
+
+Vacca, R., & Bianchi, F. (2024). Diversity, integration, and variability of intergenerational relationships in old age: new insights from personal network research.
+
+**Index:**
+
+`./`
+
+* `Vacca_Bianchi_2024_SSR.Rmd`: knit all scripts together.
+* `Vacca_Bianchi_2024_SSR.html`: all output.
+
+`scripts/`
+
+* `setup.R`: set project packages, objects, functions.
+* `data.R`: create, recode, clean variables.
+* `models.R`: fit statistical models.
+* `fig_x.R` and `tab_x.R`: create each figure and table.
+
+```{r, include = FALSE}
+# Set global options
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r, include = FALSE}
+# Setup: project packages, functions, objects
+source("./scripts/setup.R",
+       local = knitr::knit_global()
+       )
+```
+
+```{r, include = FALSE}
+# Data construction
+source("./scripts/data.R",
+       local = knitr::knit_global()
+       )
+```
+
+```{r, cache = TRUE, cache.extra = tools::md5sum("./scripts/models.R")}
+# Ego-level and multilevel regression models
+source("./scripts/models.R",
+       local = knitr::knit_global()
+       )
+```
+
+
+# Table 1
+
+```{r, warning = FALSE, results='asis'}
+source("./scripts/tab_1.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Table 2
+
+```{r, warning = FALSE, results='asis'}
+source("./scripts/tab_2.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Figure 1
+
+```{r, warning = FALSE}
+source("./scripts/fig_1.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Figure 2
+
+```{r, warning = FALSE, fig.height=5.5, fig.width=5}
+source("./scripts/fig_2.R",
+       local = knitr::knit_global()
+       )
+
+print(p)
+```
+
+# Figure 3
+
+```{r, warning = FALSE, fig.width = 8, fig.height= 10.5}
+source("./scripts/fig_3.R",
+       local = knitr::knit_global()
+       )
+
+print(p)
+```
+
+# Figure 4
+
+```{r, warning = FALSE, fig.height=8, fig.width=10}
+source("./scripts/fig_4.R",
+       local = knitr::knit_global()
+       )
+
+print(p)
+```
+
+# Table S1
+
+Done manually (no code).
+
+# Table S2
+
+```{r, warning = FALSE, results='asis'}
+source("./scripts/tab_S2.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Table S3
+
+```{r, results="asis"}
+source("./scripts/tab_S3.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Table S4
+
+```{r, results="asis"}
+source("./scripts/tab_S4.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Table S5
+
+```{r, results="asis"}
+source("./scripts/tab_S5.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Table S6
+
+```{r, warning = FALSE, results='asis'}
+source("./scripts/tab_S6.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Table S7
+
+```{r, warning = FALSE, results='asis'}
+source("./scripts/tab_S7.R",
+       local = knitr::knit_global()
+       )
+```
+
+# Figure S1
+
+```{r, warning = FALSE, fig.height=7, fig.width=12}
+source("./scripts/fig_S1.R",
+       local = knitr::knit_global()
+       )
+
+print(p)
+```
+
+# Figure S2
+
+```{r, warning = FALSE, fig.width = 8, fig.height= 10.5}
+source("./scripts/fig_S2.R",
+       local = knitr::knit_global()
+       )
+
+print(p)
+```
+
+# Figure S3
+
+```{r, warning = FALSE, fig.height=8, fig.width=10}
+source("./scripts/fig_S3.R",
+       local = knitr::knit_global()
+       )
+
+print(p)
+```
+
+# Session info
+
+```{r, echo = FALSE}
+session_info(pkgs = "attached")
+```
+

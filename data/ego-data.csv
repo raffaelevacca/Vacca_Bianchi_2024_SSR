@@ -1,0 +1,231 @@
+ego_id,random,age,gender,marital,educ,occ.typ,tel.int,dis.phys.count.cat,hcare.count.cat,adl.rec,gds.rec,demen,rsa
+1,No,84,Male,Not married,middle,3. Retail/office employee,No,One,None,No,>1,Yes,No
+2,No,81,Male,Married,primary,1. Elementary/menial,No,One,None,No,0,No,No
+3,No,83,Male,Married,primary,3. Retail/office employee,No,Multiple,None,No,0,No,No
+4,No,77,Female,Married,primary,1. Elementary/menial,No,One,None,No,>1,No,No
+5,No,93,Male,Married,primary,1. Elementary/menial,No,Multiple,Multiple,No,0,No,No
+6,Yes,88,Female,Married,primary,2. Skilled crafts/trades,No,One,None,No,0,No,No
+7,No,81,Male,Married,middle,2. Skilled crafts/trades,No,One,One,No,0,No,No
+8,No,79,Female,Married,middle,2. Skilled crafts/trades,No,Multiple,One,No,1,No,No
+9,No,79,Male,Married,primary,2. Skilled crafts/trades,No,None,None,No,0,No,No
+10,No,84,Male,Not married,middle,2. Skilled crafts/trades,No,None,Multiple,No,1,No,No
+11,No,79,Female,Married,primary,1. Elementary/menial,No,None,None,No,1,No,No
+12,No,92,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,No,0,No,No
+13,No,77,Male,Not married,middle,3. Retail/office employee,No,One,None,No,0,No,No
+14,No,83,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,No,1,No,No
+15,No,77,Male,Not married,primary,2. Skilled crafts/trades,No,Multiple,None,No,0,No,No
+16,No,84,Female,Not married,primary,1. Elementary/menial,No,One,None,No,>1,No,No
+17,No,78,Male,Married,primary,1. Elementary/menial,No,One,Multiple,No,0,No,No
+18,No,76,Female,Married,primary,1. Elementary/menial,No,One,One,No,0,No,No
+19,No,86,Male,Married,primary,2. Skilled crafts/trades,No,Multiple,Multiple,No,0,No,No
+20,No,88,Female,Married,primary,2. Skilled crafts/trades,No,Multiple,One,No,0,No,No
+21,Yes,85,Male,Married,primary,2. Skilled crafts/trades,No,One,Multiple,No,0,No,No
+22,Yes,78,Male,Married,primary,4. Professional/self-employed,No,None,None,No,0,No,No
+23,Yes,81,Male,Married,middle,2. Skilled crafts/trades,No,One,None,No,1,No,No
+24,Yes,83,Male,Not married,primary,3. Retail/office employee,No,Multiple,One,No,1,No,No
+25,Yes,83,Female,Married,middle,2. Skilled crafts/trades,No,None,None,No,0,No,No
+26,Yes,82,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,No,0,No,No
+27,Yes,81,Female,Married,middle,1. Elementary/menial,No,One,None,No,0,No,No
+28,Yes,89,Male,Not married,high,5. Manager/executive,No,Multiple,Multiple,No,>1,No,No
+29,Yes,81,Male,Married,primary,2. Skilled crafts/trades,No,Multiple,One,No,1,No,No
+30,Yes,83,Male,Not married,middle,1. Elementary/menial,No,Multiple,One,No,>1,No,No
+31,No,92,Female,Not married,primary,2. Skilled crafts/trades,No,Multiple,None,Yes,0,No,No
+32,Yes,77,Female,Not married,high,2. Skilled crafts/trades,No,One,One,No,0,No,No
+33,No,86,Female,Not married,middle,2. Skilled crafts/trades,No,One,Multiple,No,0,No,No
+34,No,79,Male,Married,high,4. Professional/self-employed,No,None,Multiple,No,0,No,No
+35,No,80,Female,Married,middle,3. Retail/office employee,No,Multiple,One,No,0,No,No
+36,No,83,Female,Not married,primary,2. Skilled crafts/trades,No,One,One,No,>1,No,No
+37,No,85,Female,Not married,primary,2. Skilled crafts/trades,No,Multiple,One,No,1,No,No
+38,No,83,Female,Married,primary,2. Skilled crafts/trades,No,Multiple,One,No,1,No,No
+39,No,76,Male,Married,middle,2. Skilled crafts/trades,No,One,One,Yes,1,Yes,Yes
+40,No,78,Female,Not married,middle,1. Elementary/menial,No,None,None,Yes,>1,Yes,Yes
+41,No,77,Female,Married,middle,1. Elementary/menial,No,None,None,Yes,1,Yes,Yes
+42,Yes,79,Female,Not married,uni or higher,4. Professional/self-employed,No,One,None,No,0,No,No
+43,Yes,87,Female,Married,high,3. Retail/office employee,No,Multiple,None,No,0,No,No
+44,Yes,79,Female,Married,middle,2. Skilled crafts/trades,No,One,One,No,1,No,No
+45,Yes,89,Female,Not married,high,4. Professional/self-employed,No,Multiple,None,Yes,>1,Yes,Yes
+46,Yes,80,Male,Married,uni or higher,5. Manager/executive,No,None,None,No,1,No,No
+47,Yes,93,Female,Not married,primary,1. Elementary/menial,No,Multiple,None,No,>1,Yes,No
+48,Yes,93,Female,Not married,high,2. Skilled crafts/trades,No,Multiple,None,No,0,No,No
+49,Yes,91,Female,Not married,uni or higher,4. Professional/self-employed,No,Multiple,None,Yes,>1,No,No
+50,Yes,87,Male,Married,uni or higher,5. Manager/executive,No,Multiple,None,No,0,No,No
+51,Yes,79,Female,Not married,high,2. Skilled crafts/trades,No,One,Multiple,No,0,No,No
+52,Yes,83,Male,Married,uni or higher,5. Manager/executive,No,One,One,No,0,No,No
+53,Yes,83,Female,Married,uni or higher,4. Professional/self-employed,No,Multiple,None,No,0,No,No
+54,Yes,95,Male,Married,uni or higher,5. Manager/executive,No,None,None,No,1,No,No
+55,Yes,79,Female,Not married,primary,2. Skilled crafts/trades,No,Multiple,Multiple,No,>1,No,No
+56,Yes,77,Male,Married,high,2. Skilled crafts/trades,No,Multiple,One,No,0,No,No
+57,Yes,77,Female,Married,primary,2. Skilled crafts/trades,No,None,One,No,0,No,No
+58,Yes,77,Male,Married,uni or higher,5. Manager/executive,No,Multiple,One,Yes,>1,Yes,No
+59,Yes,80,Male,Married,primary,3. Retail/office employee,No,One,One,No,0,No,No
+60,Yes,77,Male,Married,uni or higher,4. Professional/self-employed,No,None,None,No,0,No,No
+61,Yes,89,Female,Not married,primary,1. Elementary/menial,No,Multiple,None,No,0,No,No
+62,Yes,95,Female,Not married,primary,1. Elementary/menial,No,Multiple,None,No,0,No,No
+63,Yes,81,Female,Not married,high,2. Skilled crafts/trades,No,None,None,No,>1,No,No
+64,Yes,77,Female,Not married,primary,3. Retail/office employee,No,One,One,No,0,No,No
+65,Yes,79,Male,Married,uni or higher,4. Professional/self-employed,No,Multiple,One,No,0,No,No
+66,Yes,81,Female,Not married,high,4. Professional/self-employed,No,One,One,No,0,No,No
+67,Yes,76,Male,Married,middle,2. Skilled crafts/trades,No,One,One,No,0,No,No
+68,Yes,81,Male,Married,middle,2. Skilled crafts/trades,No,One,One,No,0,No,No
+69,Yes,82,Male,Married,middle,2. Skilled crafts/trades,No,Multiple,None,No,0,No,No
+70,Yes,78,Male,Not married,uni or higher,4. Professional/self-employed,No,One,One,No,0,No,No
+71,Yes,78,Female,Not married,high,2. Skilled crafts/trades,No,One,Multiple,No,>1,No,No
+72,Yes,97,Female,Not married,primary,1. Elementary/menial,No,Multiple,None,Yes,>1,Yes,No
+73,Yes,85,Female,Married,high,3. Retail/office employee,No,None,Multiple,No,0,No,No
+74,Yes,90,Female,Not married,primary,3. Retail/office employee,No,Multiple,None,Yes,1,Yes,Yes
+75,No,78,Female,Married,uni or higher,4. Professional/self-employed,No,One,One,No,0,No,No
+76,Yes,77,Female,Married,uni or higher,3. Retail/office employee,No,None,None,No,0,No,No
+77,Yes,79,Female,Not married,uni or higher,4. Professional/self-employed,No,One,None,No,0,No,No
+78,Yes,76,Female,Married,uni or higher,4. Professional/self-employed,No,None,One,No,0,No,No
+79,Yes,98,Female,Not married,primary,1. Elementary/menial,No,Multiple,One,Yes,>1,Yes,No
+80,Yes,77,Female,Married,high,2. Skilled crafts/trades,No,None,One,No,1,No,No
+81,Yes,86,Male,Married,middle,2. Skilled crafts/trades,No,None,One,No,1,No,No
+82,Yes,92,Male,Married,high,4. Professional/self-employed,No,None,None,No,1,No,No
+83,Yes,85,Female,Not married,uni or higher,4. Professional/self-employed,No,Multiple,One,No,>1,No,No
+84,Yes,81,Male,Married,high,4. Professional/self-employed,No,None,None,No,0,No,No
+85,Yes,78,Male,Married,high,4. Professional/self-employed,No,None,None,No,0,No,No
+86,Yes,76,Male,Married,high,5. Manager/executive,No,None,None,No,0,No,No
+87,Yes,76,Female,Not married,uni or higher,4. Professional/self-employed,No,One,One,No,0,No,No
+88,Yes,77,Female,Not married,primary,2. Skilled crafts/trades,No,None,One,No,1,No,No
+89,Yes,84,Female,Not married,middle,3. Retail/office employee,No,None,One,No,0,No,No
+90,Yes,77,Female,Married,high,2. Skilled crafts/trades,No,Multiple,One,No,>1,No,No
+91,Yes,92,Female,Not married,uni or higher,4. Professional/self-employed,No,Multiple,None,No,1,No,No
+92,Yes,89,Female,Not married,uni or higher,4. Professional/self-employed,No,One,None,No,0,No,No
+93,Yes,83,Male,Married,high,3. Retail/office employee,No,One,Multiple,No,1,No,No
+94,Yes,77,Male,Not married,uni or higher,3. Retail/office employee,No,None,One,No,1,Yes,No
+95,Yes,79,Female,Not married,primary,1. Elementary/menial,No,None,None,No,0,No,No
+96,Yes,77,Female,Not married,high,4. Professional/self-employed,No,Multiple,One,No,0,No,No
+97,Yes,85,Male,Not married,middle,4. Professional/self-employed,No,None,One,No,0,No,No
+98,No,90,Female,Not married,high,2. Skilled crafts/trades,No,One,None,Yes,>1,Yes,No
+99,Yes,82,Female,Not married,high,3. Retail/office employee,No,None,One,No,0,No,No
+100,Yes,80,Female,Not married,high,2. Skilled crafts/trades,No,One,One,No,0,No,No
+101,Yes,89,Male,Not married,high,4. Professional/self-employed,No,Multiple,One,No,>1,No,No
+102,Yes,78,Male,Married,high,3. Retail/office employee,No,One,One,No,0,No,No
+103,Yes,82,Male,Married,high,3. Retail/office employee,No,One,None,No,0,No,No
+104,Yes,79,Male,Not married,high,4. Professional/self-employed,No,One,One,No,1,No,No
+105,Yes,84,Female,Married,high,4. Professional/self-employed,No,None,One,No,0,No,No
+106,Yes,76,Male,Married,high,3. Retail/office employee,No,None,None,No,0,No,No
+107,Yes,78,Female,Not married,middle,3. Retail/office employee,No,None,None,No,0,No,No
+108,Yes,86,Female,Not married,primary,3. Retail/office employee,No,One,One,No,1,No,No
+109,Yes,87,Female,Not married,high,3. Retail/office employee,No,None,One,No,1,No,No
+110,Yes,86,Male,Married,primary,1. Elementary/menial,No,One,One,Yes,>1,Yes,No
+111,Yes,80,Male,Not married,high,4. Professional/self-employed,No,One,One,No,>1,No,No
+112,Yes,88,Male,Married,high,5. Manager/executive,No,One,One,No,>1,No,No
+113,Yes,80,Female,Married,middle,3. Retail/office employee,No,Multiple,One,No,0,No,No
+114,Yes,86,Female,Not married,high,2. Skilled crafts/trades,No,One,One,No,0,No,No
+115,Yes,80,Female,Married,uni or higher,5. Manager/executive,No,Multiple,None,No,0,No,No
+116,Yes,82,Male,Married,middle,2. Skilled crafts/trades,No,None,One,No,1,No,No
+117,Yes,78,Male,Married,uni or higher,4. Professional/self-employed,No,None,None,No,0,No,No
+118,Yes,94,Male,Not married,uni or higher,4. Professional/self-employed,No,One,One,No,1,No,No
+119,Yes,77,Male,Married,high,3. Retail/office employee,No,Multiple,One,No,0,No,No
+120,Yes,80,Male,Married,uni or higher,4. Professional/self-employed,No,One,None,No,0,No,No
+121,Yes,76,Female,Married,middle,2. Skilled crafts/trades,No,One,One,No,0,No,No
+122,Yes,89,Female,Not married,uni or higher,4. Professional/self-employed,No,Multiple,One,Yes,>1,Yes,No
+123,Yes,80,Female,Married,high,3. Retail/office employee,No,One,None,No,>1,No,No
+124,Yes,91,Female,Not married,primary,3. Retail/office employee,No,One,None,Yes,1,No,Yes
+125,Yes,81,Female,Not married,high,3. Retail/office employee,No,None,One,No,>1,No,No
+126,No,83,Male,Married,high,4. Professional/self-employed,No,Multiple,None,Yes,0,Yes,Yes
+127,No,76,Female,Married,high,3. Retail/office employee,No,One,None,Yes,0,Yes,Yes
+128,No,80,Female,Not married,primary,1. Elementary/menial,No,None,None,Yes,>1,Yes,Yes
+129,No,96,Male,Not married,primary,2. Skilled crafts/trades,No,One,None,Yes,1,No,Yes
+130,No,94,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,Yes,1,No,Yes
+131,No,94,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,Yes,0,No,Yes
+132,No,85,Female,Married,high,4. Professional/self-employed,No,None,None,Yes,0,Yes,Yes
+133,No,75,Male,Married,high,3. Retail/office employee,No,Multiple,None,Yes,>1,Yes,Yes
+134,No,91,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,Yes,1,No,Yes
+135,No,79,Female,Not married,primary,1. Elementary/menial,No,None,None,No,0,No,No
+136,No,75,Female,Not married,primary,2. Skilled crafts/trades,No,One,None,No,1,No,No
+137,No,75,Female,Married,uni or higher,5. Manager/executive,No,None,None,No,0,No,No
+138,No,80,Female,Not married,primary,1. Elementary/menial,No,None,None,Yes,1,No,Yes
+139,No,78,Female,Not married,middle,2. Skilled crafts/trades,No,None,None,No,0,No,No
+140,No,80,Female,Not married,high,4. Professional/self-employed,No,One,None,No,0,No,No
+141,No,87,Female,Not married,primary,1. Elementary/menial,No,One,None,Yes,>1,No,No
+142,No,81,Male,Not married,primary,1. Elementary/menial,No,Multiple,None,No,0,No,No
+143,No,81,Female,Not married,primary,1. Elementary/menial,No,Multiple,None,No,1,No,No
+144,No,81,Female,Not married,primary,2. Skilled crafts/trades,No,Multiple,None,No,0,No,No
+145,Yes,82,Male,Married,high,4. Professional/self-employed,No,None,One,Yes,0,No,No
+146,No,79,Male,Married,middle,2. Skilled crafts/trades,No,One,None,No,0,No,No
+147,No,79,Male,Married,middle,3. Retail/office employee,No,One,One,No,0,No,No
+148,No,77,Female,Married,high,3. Retail/office employee,No,None,One,No,0,No,No
+149,No,76,Female,Married,primary,1. Elementary/menial,No,None,None,No,0,No,No
+150,No,79,Male,Married,primary,2. Skilled crafts/trades,No,Multiple,None,No,0,No,No
+151,No,78,Male,Married,high,2. Skilled crafts/trades,No,None,None,No,0,No,No
+152,Yes,77,Male,Married,middle,1. Elementary/menial,No,One,None,No,0,No,No
+153,No,86,Female,Not married,primary,2. Skilled crafts/trades,No,None,One,No,0,No,No
+154,No,88,Female,Not married,primary,1. Elementary/menial,No,One,None,No,>1,No,No
+155,Yes,85,Male,Married,middle,1. Elementary/menial,No,One,None,No,1,No,No
+156,Yes,82,Female,Married,middle,1. Elementary/menial,No,One,None,No,1,No,No
+157,Yes,77,Male,Married,middle,1. Elementary/menial,No,One,None,No,1,No,No
+158,Yes,77,Female,Not married,middle,1. Elementary/menial,No,None,None,No,>1,No,No
+159,Yes,76,Male,Not married,middle,3. Retail/office employee,No,Multiple,None,No,0,No,No
+160,No,92,Female,Not married,primary,1. Elementary/menial,No,One,None,No,0,No,No
+161,Yes,81,Female,Not married,primary,2. Skilled crafts/trades,No,None,None,No,0,No,No
+162,Yes,76,Female,Not married,uni or higher,4. Professional/self-employed,No,None,None,No,0,No,No
+163,Yes,92,Female,Not married,primary,1. Elementary/menial,No,One,None,Yes,>1,Yes,Yes
+164,Yes,93,Female,Not married,middle,2. Skilled crafts/trades,No,Multiple,None,Yes,1,Yes,Yes
+165,Yes,81,Male,Not married,high,4. Professional/self-employed,No,None,None,No,>1,No,Yes
+166,Yes,85,Female,Not married,uni or higher,3. Retail/office employee,No,None,None,No,0,No,No
+167,No,87,Female,Married,primary,1. Elementary/menial,Yes,None,None,No,>1,No,No
+168,No,87,Male,Married,high,4. Professional/self-employed,Yes,None,None,No,1,No,No
+169,No,84,Female,Not married,middle,4. Professional/self-employed,Yes,One,None,No,1,No,No
+170,No,85,Female,Married,high,3. Retail/office employee,Yes,One,None,No,0,No,No
+171,No,93,Male,Married,high,4. Professional/self-employed,Yes,None,None,No,0,No,No
+172,No,85,Male,Married,primary,2. Skilled crafts/trades,Yes,Multiple,One,No,1,No,No
+173,No,79,Female,Married,middle,2. Skilled crafts/trades,Yes,One,None,No,1,No,No
+174,No,80,Male,Married,middle,1. Elementary/menial,Yes,One,None,No,0,No,No
+175,No,95,Male,Married,middle,3. Retail/office employee,Yes,One,One,No,0,No,No
+176,No,77,Female,Married,high,2. Skilled crafts/trades,Yes,One,None,No,0,No,No
+177,No,84,Male,Married,primary,2. Skilled crafts/trades,Yes,One,One,No,0,No,No
+178,No,88,Female,Married,primary,2. Skilled crafts/trades,Yes,Multiple,One,Yes,1,No,No
+179,No,80,Male,Married,high,3. Retail/office employee,Yes,Multiple,One,No,0,No,No
+180,No,84,Male,Married,middle,4. Professional/self-employed,Yes,None,None,No,1,No,No
+181,No,86,Female,Married,middle,2. Skilled crafts/trades,Yes,One,One,No,1,No,No
+182,No,77,Male,Married,middle,3. Retail/office employee,Yes,Multiple,One,No,0,No,No
+184,No,79,Male,Married,high,2. Skilled crafts/trades,Yes,One,One,No,1,No,No
+185,No,79,Female,Married,primary,1. Elementary/menial,Yes,Multiple,None,No,>1,No,No
+186,No,93,Male,Not married,primary,2. Skilled crafts/trades,Yes,One,None,No,0,No,No
+187,No,79,Female,Married,primary,2. Skilled crafts/trades,Yes,None,None,No,0,No,No
+188,No,84,Male,Married,primary,4. Professional/self-employed,Yes,One,One,No,0,No,No
+189,No,77,Male,Married,middle,2. Skilled crafts/trades,Yes,None,One,No,0,No,No
+191,No,97,Male,Not married,high,2. Skilled crafts/trades,No,None,None,Yes,1,No,Yes
+192,No,78,Female,Not married,middle,2. Skilled crafts/trades,No,One,None,Yes,1,Yes,Yes
+193,No,82,Male,Married,uni or higher,4. Professional/self-employed,No,One,None,Yes,1,No,Yes
+194,No,78,Male,Not married,middle,2. Skilled crafts/trades,No,Multiple,Multiple,No,0,No,Yes
+195,No,75,Male,Married,high,4. Professional/self-employed,No,Multiple,None,Yes,0,No,Yes
+196,No,89,Female,Not married,middle,2. Skilled crafts/trades,No,None,None,No,>1,No,Yes
+197,No,94,Female,Not married,primary,1. Elementary/menial,No,One,None,Yes,1,Yes,Yes
+198,No,95,Male,Married,high,3. Retail/office employee,No,Multiple,None,Yes,1,No,Yes
+199,No,100,Female,Not married,middle,2. Skilled crafts/trades,No,One,None,Yes,>1,No,Yes
+200,No,84,Male,Not married,middle,3. Retail/office employee,No,One,None,No,>1,Yes,Yes
+201,No,96,Female,Not married,middle,1. Elementary/menial,No,None,None,Yes,>1,No,Yes
+202,No,92,Male,Not married,high,2. Skilled crafts/trades,No,Multiple,None,Yes,0,No,Yes
+203,No,75,Male,Married,uni or higher,4. Professional/self-employed,No,One,None,Yes,>1,Yes,Yes
+204,No,92,Female,Not married,high,2. Skilled crafts/trades,No,Multiple,None,Yes,0,No,Yes
+205,No,91,Female,Not married,middle,1. Elementary/menial,No,One,None,Yes,>1,Yes,Yes
+206,No,93,Female,Not married,uni or higher,4. Professional/self-employed,No,One,None,Yes,1,No,Yes
+207,No,96,Female,Not married,primary,2. Skilled crafts/trades,No,Multiple,None,Yes,1,No,Yes
+208,No,78,Female,Married,uni or higher,4. Professional/self-employed,No,None,None,No,1,No,No
+209,No,80,Female,Not married,uni or higher,4. Professional/self-employed,No,None,None,No,0,No,No
+210,No,80,Female,Not married,high,2. Skilled crafts/trades,No,None,One,No,0,No,No
+211,No,79,Male,Married,middle,4. Professional/self-employed,No,None,One,No,0,No,No
+212,No,76,Male,Not married,uni or higher,2. Skilled crafts/trades,No,None,One,No,1,No,No
+213,No,81,Female,Not married,middle,2. Skilled crafts/trades,No,None,None,No,1,No,No
+214,No,87,Female,Not married,high,4. Professional/self-employed,No,None,None,No,0,No,No
+215,No,78,Male,Married,high,4. Professional/self-employed,No,One,One,Yes,1,Yes,No
+216,No,82,Female,Married,middle,2. Skilled crafts/trades,Yes,None,One,No,0,No,No
+217,No,83,Male,Married,high,2. Skilled crafts/trades,Yes,None,None,No,0,No,No
+218,No,88,Female,Not married,primary,4. Professional/self-employed,Yes,None,None,No,0,No,No
+219,No,83,Male,Married,middle,4. Professional/self-employed,Yes,None,Multiple,No,1,No,No
+220,No,80,Female,Married,middle,2. Skilled crafts/trades,Yes,None,One,No,0,No,No
+221,No,78,Male,Married,middle,2. Skilled crafts/trades,Yes,None,None,No,0,No,No
+222,No,84,Female,Not married,primary,2. Skilled crafts/trades,No,Multiple,None,No,1,No,No
+223,No,79,Female,Not married,uni or higher,4. Professional/self-employed,No,None,One,No,0,No,No
+224,No,83,Male,Married,uni or higher,5. Manager/executive,No,Multiple,One,Yes,>1,No,No
+225,No,85,Female,Married,primary,2. Skilled crafts/trades,Yes,One,One,No,1,No,No
+226,No,87,Male,Married,primary,3. Retail/office employee,Yes,One,One,No,0,No,No
+227,No,77,Female,Married,primary,1. Elementary/menial,Yes,One,None,No,0,No,No
+228,No,81,Male,Married,primary,2. Skilled crafts/trades,Yes,Multiple,One,No,0,No,No
+229,No,88,Male,Not married,primary,1. Elementary/menial,Yes,One,One,No,0,No,No
+230,No,78,Female,Married,middle,2. Skilled crafts/trades,Yes,Multiple,One,No,1,No,No
+231,No,81,Male,Married,primary,2. Skilled crafts/trades,Yes,One,One,No,1,No,No
+232,No,89,Male,Married,primary,3. Retail/office employee,Yes,Multiple,One,Yes,>1,No,No
