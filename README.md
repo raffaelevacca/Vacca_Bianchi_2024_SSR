@@ -1,6 +1,7 @@
 Reproducible project for:
 
-Vacca, R., & Bianchi, F. (2024). Diversity, integration, and variability of intergenerational relationships in old age: new insights from personal network research.
+Vacca, R., & Bianchi, F. (2024). [Diversity, integration, and variability of intergenerational relationships in old age: New insights from personal network research](https://doi.org/10.1016/j.ssresearch.2024.102991). Social Science Research, 119, 102991. 
+
 
 **Index:**
 
