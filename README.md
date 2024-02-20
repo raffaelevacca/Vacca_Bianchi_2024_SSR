@@ -8,7 +8,6 @@ Vacca, R., & Bianchi, F. (2024). [Diversity, integration, and variability of int
 `./`
 
 * `Vacca_Bianchi_2024_SSR.Rmd`: knit all scripts together.
-* `Vacca_Bianchi_2024_SSR.html`: all output.
 
 `scripts/`
 
@@ -16,3 +15,7 @@ Vacca, R., & Bianchi, F. (2024). [Diversity, integration, and variability of int
 * `data.R`: create, recode, clean variables.
 * `models.R`: fit statistical models.
 * `fig_x.R` and `tab_x.R`: create each figure and table.
+
+`docs/`
+
+* `index.html`: all output.
